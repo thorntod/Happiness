@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
+// ============== INTERFACE =================
 @interface FaceView : UIView
 
 @property (nonatomic) CGFloat scale;
