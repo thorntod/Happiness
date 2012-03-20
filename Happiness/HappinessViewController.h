@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
+// ------------------------------------------------------
 @interface HappinessViewController : UIViewController
 
 @property (nonatomic) int happiness;
