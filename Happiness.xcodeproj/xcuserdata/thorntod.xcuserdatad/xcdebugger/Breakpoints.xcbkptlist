@@ -8,11 +8,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Happiness/HappinessViewController.m"
-         timestampString = "353407824.567387"
+         timestampString = "353914194.66344"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "33"
-         endingLineNumber = "33"
+         startingLineNumber = "36"
+         endingLineNumber = "36"
          landmarkName = "-setFaceview:"
          landmarkType = "5">
       </FileBreakpoint>
