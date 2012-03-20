@@ -13,7 +13,7 @@
 @synthesize scale = _scale;
 
 
-//-------------------------------------------
+//---------------- DEFINES ---------------------------
 #define DEFAULT_SCALE 0.90
 
 #define EYE_H 0.35
